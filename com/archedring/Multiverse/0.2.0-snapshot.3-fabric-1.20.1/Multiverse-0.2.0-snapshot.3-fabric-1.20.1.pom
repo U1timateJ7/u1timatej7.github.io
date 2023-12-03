@@ -21,30 +21,6 @@
 			<scope>compile</scope>
 		</dependency>
 		<dependency>
-			<groupId>dev.onyxstudios.cardinal-components-api</groupId>
-			<artifactId>cardinal-components-base</artifactId>
-			<version>5.2.1</version>
-			<scope>compile</scope>
-		</dependency>
-		<dependency>
-			<groupId>dev.onyxstudios.cardinal-components-api</groupId>
-			<artifactId>cardinal-components-entity</artifactId>
-			<version>5.2.1</version>
-			<scope>compile</scope>
-		</dependency>
-		<dependency>
-			<groupId>io.github.cottonmc</groupId>
-			<artifactId>LibGui</artifactId>
-			<version>8.0.0+1.20</version>
-			<scope>compile</scope>
-		</dependency>
-		<dependency>
-			<groupId>com.terraformersmc.terraform-api</groupId>
-			<artifactId>terraform-wood-api-v1</artifactId>
-			<version>7.0.1</version>
-			<scope>compile</scope>
-		</dependency>
-		<dependency>
 			<groupId>net.fabricmc</groupId>
 			<artifactId>fabric-loader</artifactId>
 			<version>0.14.21</version>
