@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.archedring</groupId>
+	<artifactId>Multiverse</artifactId>
+	<version>0.2.0-snapshot.1-fabric-1.19.4</version>
+	<packaging>pom</packaging>
+	<name>Multiverse</name>
+	<description>Adds several unique dimensions.</description>
+	<dependencies>
+		<dependency>
+			<groupId>net.fabricmc.fabric-api</groupId>
+			<artifactId>fabric-api</artifactId>
+			<version>0.76.0+1.19.4</version>
+			<scope>compile</scope>
+		</dependency>
+		<dependency>
+			<groupId>dev.emi</groupId>
+			<artifactId>trinkets</artifactId>
+			<version>3.6.0</version>
+			<scope>compile</scope>
+		</dependency>
+		<dependency>
+			<groupId>dev.onyxstudios.cardinal-components-api</groupId>
+			<artifactId>cardinal-components-base</artifactId>
+			<version>5.1.0</version>
+			<scope>compile</scope>
+		</dependency>
+		<dependency>
+			<groupId>dev.onyxstudios.cardinal-components-api</groupId>
+			<artifactId>cardinal-components-entity</artifactId>
+			<version>5.0.0-beta.1</version>
+			<scope>compile</scope>
+		</dependency>
+		<dependency>
+			<groupId>io.github.cottonmc</groupId>
+			<artifactId>LibGui</artifactId>
+			<version>7.0.0-beta.2+1.19.4</version>
+			<scope>compile</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.terraformersmc.terraform-api</groupId>
+			<artifactId>terraform-wood-api-v1</artifactId>
+			<version>6.1.0-beta.1</version>
+			<scope>compile</scope>
+		</dependency>
+		<dependency>
+			<groupId>net.fabricmc</groupId>
+			<artifactId>fabric-loader</artifactId>
+			<version>0.14.18</version>
+			<scope>runtime</scope>
+		</dependency>
+	</dependencies>
+</project>

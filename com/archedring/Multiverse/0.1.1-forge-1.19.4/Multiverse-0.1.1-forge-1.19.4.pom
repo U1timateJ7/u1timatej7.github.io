@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.archedring</groupId>
+	<artifactId>Multiverse</artifactId>
+	<version>0.1.1-forge-1.19.4</version>
+	<packaging>pom</packaging>
+	<name>Multiverse</name>
+	<description>Adds several unique dimensions.</description>
+	<dependencies>
+		<dependency>
+			<groupId>top.theillusivec4.curios</groupId>
+			<artifactId>curios-forge</artifactId>
+			<version>1.19.4-5.1.4.2</version>
+			<scope>compile</scope>
+		</dependency>
+	</dependencies>
+</project>
