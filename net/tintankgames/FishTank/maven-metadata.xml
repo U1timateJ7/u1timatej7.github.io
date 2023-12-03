@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.tintankgames</groupId>
+  <artifactId>FishTank</artifactId>
+  <versioning>
+    <latest>1.0.2-1.20.2-fabric</latest>
+    <release>1.0.2-1.20.2-fabric</release>
+    <versions>
+      <version>1.0.0-1.18.1</version>
+      <version>1.0.0-1.18.2</version>
+      <version>1.0.0-1.19.2</version>
+      <version>1.0.1-1.16.5-forge</version>
+      <version>1.0.1-1.16.5-fabric</version>
+      <version>1.0.1-1.18.2-forge</version>
+      <version>1.0.1-1.18.2-fabric</version>
+      <version>1.0.1-1.19.2-forge</version>
+      <version>1.0.1-1.19.2-fabric</version>
+      <version>1.0.1-1.19.4-forge</version>
+      <version>1.0.1-1.19.4-fabric</version>
+      <version>1.0.1-1.20.1-forge</version>
+      <version>1.0.1-1.20.1-fabric</version>
+      <version>1.0.1-1.20.2-forge</version>
+      <version>1.0.1-1.20.2-neoforge</version>
+      <version>1.0.1-1.20.2-fabric</version>
+      <version>1.0.2-1.16.5-forge</version>
+      <version>1.0.2-1.18.2-forge</version>
+      <version>1.0.2-1.18.2-fabric</version>
+      <version>1.0.2-1.19.2-forge</version>
+      <version>1.0.2-1.19.2-fabric</version>
+      <version>1.0.2-1.19.4-forge</version>
+      <version>1.0.2-1.19.4-fabric</version>
+      <version>1.0.2-1.20.1-forge</version>
+      <version>1.0.2-1.20.1-fabric</version>
+      <version>1.0.2-1.20.2-forge</version>
+      <version>1.0.2-1.20.2-neoforge</version>
+      <version>1.0.2-1.20.2-fabric</version>
+    </versions>
+    <lastUpdated>20231203143619</lastUpdated>
+  </versioning>
+</metadata>
