@@ -3,8 +3,8 @@
   <groupId>net.tintankgames</groupId>
   <artifactId>FishTank</artifactId>
   <versioning>
-    <latest>1.0.2-1.20.2-fabric</latest>
-    <release>1.0.2-1.20.2-fabric</release>
+    <latest>1.0.2-1.20.4-fabric</latest>
+    <release>1.0.2-1.20.4-fabric</release>
     <versions>
       <version>1.0.0-1.18.1</version>
       <version>1.0.0-1.18.2</version>
@@ -34,7 +34,10 @@
       <version>1.0.2-1.20.2-forge</version>
       <version>1.0.2-1.20.2-neoforge</version>
       <version>1.0.2-1.20.2-fabric</version>
+      <version>1.0.2-1.20.4-forge</version>
+      <version>1.0.2-1.20.4-neoforge</version>
+      <version>1.0.2-1.20.4-fabric</version>
     </versions>
-    <lastUpdated>20231203143619</lastUpdated>
+    <lastUpdated>20231207205055</lastUpdated>
   </versioning>
 </metadata>
