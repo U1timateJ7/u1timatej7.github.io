@@ -3,11 +3,13 @@
   <groupId>net.tintankgames</groupId>
   <artifactId>marvel</artifactId>
   <versioning>
-    <latest>2.0.0-1.20.6-neoforge</latest>
+    <latest>2.1.0-pre1-1.21-neoforge</latest>
     <release>2.0.0-1.20.6-neoforge</release>
     <versions>
       <version>2.0.0-1.20.6-neoforge</version>
+      <version>2.1.0-pre1-1.20.6-neoforge</version>
+      <version>2.1.0-pre1-1.21-neoforge</version>
     </versions>
-    <lastUpdated>20240627224913</lastUpdated>
+    <lastUpdated>20240719011351</lastUpdated>
   </versioning>
 </metadata>
