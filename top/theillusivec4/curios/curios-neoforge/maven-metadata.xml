@@ -3,12 +3,13 @@
   <groupId>top.theillusivec4.curios</groupId>
   <artifactId>curios-neoforge</artifactId>
   <versioning>
-    <latest>8.0.2+1.21</latest>
-    <release>8.0.2+1.21</release>
+    <latest>8.0.2+1.21.1</latest>
+    <release>8.0.2+1.21.1</release>
     <versions>
       <version>8.0.1+1.21</version>
       <version>8.0.2+1.21</version>
+      <version>8.0.2+1.21.1</version>
     </versions>
-    <lastUpdated>20240711011040</lastUpdated>
+    <lastUpdated>20240810170537</lastUpdated>
   </versioning>
 </metadata>
